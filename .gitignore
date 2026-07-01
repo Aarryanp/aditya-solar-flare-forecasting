@@ -1,0 +1,20 @@
+# data (too large / not ours to redistribute)
+*.fits
+*.lc
+*.pha
+*.pi
+*.gti
+*.gz
+2026-*/
+AL1_*/
+HLS_*/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# os
+.DS_Store
